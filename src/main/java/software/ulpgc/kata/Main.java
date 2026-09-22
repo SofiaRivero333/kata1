@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Nombre: " + person.getName());
         System.out.println("Edad: " + person.getAge());
-        System.out.println("Adulto: " + person.adult());
+        System.out.println("Adulto: " + person.isAdult());
 
     }
 
