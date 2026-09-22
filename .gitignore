@@ -37,3 +37,16 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Compilacion, binarios y archivos temporales ###
+target/
+out/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.zip
+*.exe
+*.log
+*.tmp
