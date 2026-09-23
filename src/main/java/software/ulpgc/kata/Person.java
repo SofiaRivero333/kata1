@@ -17,7 +17,7 @@ public class Person {
         return age;
     }
 
-    public boolean adult() {
+    public boolean isAdult() {
         return age >= 18;
     }
 }

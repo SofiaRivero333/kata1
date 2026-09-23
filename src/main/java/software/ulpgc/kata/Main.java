@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("Nombre: " + person.getName());
         System.out.println("Edad: " + person.getAge());
-        System.out.println("Mayor de edad: " + person.adult());
+        System.out.println("Mayor de edad: " + person.isAdult());
     }
 }
