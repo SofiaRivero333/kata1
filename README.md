@@ -23,8 +23,6 @@ Git y repeticiones:
 Trabajo en develop, commits de estructura, implementación y documentación, integración en master y push de ambas ramas.
 Cada repetición reconstruye Person y Main, ejecuta el programa y usa el depurador, menos en la repetición 2 que no depuré, pero en las tres se realiza lo mismo.
 En el historial de commits se verá esto, haciendo referencia a las repeticiones:
-- Kata1 Repetition 2: (Acción correspondiente)
-- Kata1 Repetition 3: (Acción correspondiente)
 
 Comando o pasos usados para clonar el repositorio y comprobar que compila fuera de la carpeta original:
 En IntelliJ, seleccionamos Clone repository e introducimos https://github.com/SofiaRivero333/kata1.git`, elegimos una carpeta nueva, diferente de la original, y pulsamos
